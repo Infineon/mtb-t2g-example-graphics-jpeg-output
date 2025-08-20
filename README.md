@@ -54,9 +54,9 @@ ISO/IEC10918-1
 
 More details can be found in:
 - TRAVEO&trade; T2G CYT4DN
-  - [Technical Reference Manual (TRM)](https://www.infineon.com/dgdl/?fileId=8ac78c8c8691902101869f03007d2d87)
-  - [Registers TRM](https://www.infineon.com/dgdl/?fileId=8ac78c8c8691902101869ef098052d79)
-  - [Data Sheet](https://www.infineon.com/dgdl/?fileId=8ac78c8c869190210186f0cceff43fd0)
+    - [Technical Reference Manual (TRM)](https://documentation.infineon.com/traveo/docs/mch1706536194727)
+    - [Registers TRM](https://documentation.infineon.com/traveo/docs/mch1706536194727)
+    - [Data Sheet](https://documentation.infineon.com/traveo/docs/jbh1706536144484)
 
 ## Hardware setup
 
@@ -70,8 +70,7 @@ No changes are required from the board's default settings.
 
 ## Run the demonstration
 **Note:**
-You need to download [TRAVEO&trade; T2G Virtual Display Tool
-](https://softwaretools-preview.icp.infineon.com/tools?q=traveo) in advance. Because this demonstration uses the FX3 controller to display. Please make sure you have installed Qt Design Studio and have a valid license.
+You need to download [TRAVEO&trade; T2G Virtual Display Tool](https://softwaretools-preview.icp.infineon.com/tools/com.ifx.tb.tool.traveot2gvirtualdisplaytool) in advance. Because this demonstration uses the FX3 controller to display. Please make sure you have installed Qt Design Studio and have a valid license.
 
 After code compilation, perform the following steps to flashing the device:
 
@@ -92,13 +91,13 @@ After code compilation, perform the following steps to flashing the device:
 <img src="./images/output_image.png" width="400" /><BR>
 More details can be found in:
 
-refer to [Steps to use the Qt Design Studio using the ModusToolbox&trade;](https://www.infineon.com/dgdl/?fileId=8ac78c8c9715623e01973b3fe6e520a4)
+refer to [Steps to use the Qt Design Studio using the ModusToolbox&trade;](https://www.infineon.com/assets/row/public/documents/10/56/infineon-steps-to-use-the-qt-design-studio-using-the-modustoolbox-training-en.pdf)
 
 ## References  
 
 Relevant Application notes are:
 
-- [AN235305](https://www.infineon.com/dgdl/?fileId=8ac78c8c8b6555fe018c1fddd8a72801) - Getting started with TRAVEO&trade; T2G family MCUs in ModusToolbox&trade;
+- [AN235305](https://www.infineon.com/gated/infineon-an235305-getting-started-with-traveo-t2g-family-mcus-in-modustoolbox-applicationnotes-en_ef8d5799-c199-4f23-83a2-4fd63183071f) - Getting started with TRAVEO&trade; T2G family MCUs in ModusToolbox&trade;
 
 
 ModusToolbox&trade;  is available online:
@@ -111,9 +110,9 @@ More code examples can be found on the GIT repository:
 - [TRAVEO&trade; T2G Code examples](https://github.com/orgs/Infineon/repositories?q=mtb-t2g-&type=all&language=&sort=)
 
 For additional trainings, visit our webpage:
-- [Steps to use the Qt Design Studio using the ModusToolbox&trade;](https://www.infineon.com/dgdl/?fileId=8ac78c8c9715623e01973b3fe6e520a4)
+- [Steps to use the Qt Design Studio using the ModusToolbox&trade;](https://www.infineon.com/assets/row/public/documents/10/56/infineon-steps-to-use-the-qt-design-studio-using-the-modustoolbox-training-en.pdf)
 
-- [TRAVEO&trade; T2G trainings](https://www.infineon.com/cms/en/product/microcontroller/32-bit-traveo-t2g-arm-cortex-microcontroller/32-bit-traveo-t2g-arm-cortex-for-cluster/traveo-t2g-cyt4dn/#!trainings)
+- [TRAVEO&trade; T2G trainings](https://www.infineon.com/training/microcontroller-trainings)
 
 For questions and support, use the TRAVEO&trade; T2G Forum:  
 - <https://community.infineon.com/t5/TRAVEO-T2G/bd-p/TraveoII>  
